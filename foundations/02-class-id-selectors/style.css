@@ -1,0 +1,7 @@
+.odd{
+    font-family: verdana,Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightpink;
+}
+.odd.cooler{
+    font-size: 24px;
+}
